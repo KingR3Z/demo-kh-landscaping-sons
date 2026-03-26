@@ -45,12 +45,12 @@ export const client = {
     { before: "/images/drive-before.jpg", after: "/images/drive-after.jpg", label: "Driveway" },
   ] as { before: string; after: string; label: string }[],
   reviews: [
-    { name: "Sarah M.", rating: 5, text: "Absolutely fantastic work. Professional from start to finish. Couldn't recommend more highly.", date: "2 weeks ago", badge: "Local Guide" },
-    { name: "James T.", rating: 5, text: "Brilliant job. They understood exactly what we wanted and delivered beyond expectations.", date: "1 month ago" },
-    { name: "Karen D.", rating: 5, text: "Best in the area. Transformed our garden into something we're genuinely proud of.", date: "3 weeks ago", badge: "Local Guide" },
-    { name: "David R.", rating: 5, text: "From consultation to completion, everything was handled professionally. Fair pricing throughout.", date: "2 months ago" },
-    { name: "Emma W.", rating: 5, text: "Beautiful results. They delivered exactly what we asked for with a stunning finish.", date: "1 month ago" },
-    { name: "Paul H.", rating: 5, text: "Outstanding quality. Neighbours keep stopping to compliment the work. Highly recommended.", date: "3 weeks ago", badge: "Local Guide" },
+    { name: "Shannon Byers", rating: 5, text: "Absolutely over the moon with our garden transformation, big thank you to Shaun, Rod and Steve for their hard-work and how fantastic our garden looks. Highly recommend this company for any landscaping/garden design", date: "2 weeks ago" },
+    { name: "Moira Heppell", rating: 5, text: "Excellent professional job transforming our garden. Tidy reliable team who work hard. I would have no hesitation in recommending Shaun, Rod and Steve. Thank you so much.", date: "3 weeks ago" },
+    { name: "Rianna Margione", rating: 5, text: "I can’t recommend these guys more. From the quote to completion, there was great communication and contact. My garden wasn’t a massive high value job but I felt like they took as much care and commitment as a big job. My paved jungle of a garden was totally transformed and they went above and beyond and kept me involved the whole way through, asking me about any details that I might want/change. Also kept everything really tidy and were super efficient and knowledgeable! Thank you ☺️", date: "a month ago" },
+    { name: "James Simpson", rating: 5, text: "We highly recommend this company for any landscaping works. They transformed our garden to exactly what we wanted. Shaun and his teams attention to detail, hard work and attitude is to be commended.", date: "5 months ago" },
+    { name: "Richard Davies", rating: 5, text: "I would highly recommend this company to any one who needs work on their garden. We needed a old decking removed and replaced by a patio. This was no mean task as old decking some 6 meters by 4.5 metres. We were given a very competitive price and a time scale of 3 days to complete including removal of all old decking. The work was done exactly as was quoted and way above our expectations. I would recommend this company without any reservations. The guys doing this job were a delight and a credit to British workmen", date: "10 months ago" },
+    { name: "David", rating: 5, text: "Already recommend these guys to family and friends.  A team with a wealth of experience and an eye for detail that take pride in what they do, that is shown in the care, thought and considered way they work. So happy with their hard work and result. Cheers guys...", date: "11 months ago" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
   seo: {
     title: "K.H. Landscaping and Sons | Professional Landscaper in Wallsend",
